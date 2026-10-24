@@ -1,0 +1,9 @@
+[p ASM ]
+[d version 1.1 ]
+[d edition pro ]
+[d chip 16F877A ]
+"1 C:/Program Files/Microchip/MPLABX/v6.20/packs/Microchip/PIC16Fxxx_DFP/1.6.156/xc8\\pic\\include/pic.inc
+"1 C:\\Program Files\\Microchip\\xc8\\v4.00\\pic\\include/xc.inc
+"1 C:/Program Files/Microchip/MPLABX/v6.20/packs/Microchip/PIC16Fxxx_DFP/1.6.156/xc8\\pic\\include\\proc/pic16f877a.inc
+"1 01_wreg.S
+"1 C:/Program Files/Microchip/MPLABX/v6.20/packs/Microchip/PIC16Fxxx_DFP/1.6.156/xc8\\pic\\include/pic_as_chip_select.inc
